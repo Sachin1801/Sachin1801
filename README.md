@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="Waving hand animation" />, I'm ADAMAY MANN</h1>
-  <h3>Computer Science Grad at New York University</h3>
+  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="Waving hand animation" />, I'm Sachin Adlakha</h1>
+  <h3>Computer Science Grad Student at New York University</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="Profile view counter" />
+    <img src="https://komarev.com/ghpvc/?username=Sachin1801" alt="Profile view counter" />
   </p>
 
-  <a href="https://www.buymeacoffee.com/AdamayMann" target="_blank">
+  <a href="https://www.buymeacoffee.com/Sachin1801" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px; width: 174px; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5);" />
   </a>
 
@@ -15,15 +15,16 @@
   </p>
 
   <div>
-    <a href="https://adamaymann.sevratom.com/" target="_blank"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Personal Website" /></a>
-    <a href="https://www.linkedin.com/in/adamaymann7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:meadamann2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://medium.com/@adamaymann" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://twitter.com/adamay_mann" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://dev.to/mannadamay12" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-    <a href="https://hashnode.com/@mannadamay12" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-    <a href="https://leetcode.com/meadamann2002/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
-    <a href="https://www.kaggle.com/adamaymann" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://sachin1801.github.io/Personal_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Personal Website" /></a>
+    <a href="https://www.linkedin.com/in/sachin-adlakha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sachinadlakha1801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://medium.com/@sachinadlakha7" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://x.com/sachinadlakha18" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" /></a>
+    <!-- <a href="https://dev.to/mannadamay12" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a> -->
+    <!-- <a href="https://hashnode.com/@mannadamay12" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a> -->
+    <a href="https://leetcode.com/u/sachin1801/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+    <a href="https://www.geeksforgeeks.org/user/sachinadlakha7/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
+    <!-- <a href="https://www.kaggle.com/adamaymann" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> -->
   </div>
 </div>
 
@@ -31,12 +32,12 @@
   <div style="flex: 1;">
     <h3>Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" alt="Cool doge emoji" /></h3>
 
-    - 🌱 I'm currently learning Deep Learning & DSA
-    - 👯 I'm looking to collaborate on Full Stack Web Development 
-    - 🤝 I'm Looking for help with DSA
+    - 🌱 I'm currently learning Deep Learning & Financial Computing
+    - 👬 I'm looking to collaborate on Full Stack Web Development, AI projects, Finance Projects  
+    - 🤝 I'm Looking for Summer 2025 Internships in United States of America
     - 🌌 Ask me about anything, I am happy to help :)
     - 😄 Pronouns: He/Him 
-    - ⚡ Fun fact: I play piano 🤪
+    - ⚡ Hobbies: I play Billiards, Soccer 🤪 and I love listening to Music 🎶
   </div>
 </div>
 
@@ -51,6 +52,8 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 </details>
 
 <details>
@@ -65,10 +68,11 @@
 
 <details>
   <summary>Backend</summary>
-  
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
 </details>
 
 <details>
@@ -104,9 +108,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" alt="GitHub Streak Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1801&layout=donut&theme=transparent&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
-
 
 <p align="center">
   <b>Show some ❤️ by starring some of the repositories!</b>
