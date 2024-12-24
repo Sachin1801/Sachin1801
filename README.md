@@ -111,9 +111,48 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1801&layout=donut&theme=transparent&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <b>Show some ❤️ by starring some of the repositories!</b>
-</p>
+<div align="center">
+  <h3>🎯 My DSA Practice Contributions </h3>
+
+  [![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
+
+  ![C++](https://img.shields.io/badge/DSA_Practice-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+  ### 📊 My DSA Practice Stats
+
+  [![LeetCode & GFG Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=tokyonight&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
+
+  <h3>🏆 LeetCode Stats</h3>
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin1801?theme=dark&font=Noto%20Sans&ext=activity)
+  
+  <div align="center">
+  <h3>💻 GeeksForGeeks Stats</h3>
+
+  <div style="display: inline-block; text-align: left;">
+    <table>
+      <tr>
+        <td><b>🏆 Rank</b></td>
+        <td style="padding-left: 15px;">15</td>
+      </tr>
+      <tr>
+        <td><b>💻 Coding Score</b></td>
+        <td style="padding-left: 15px;">131</td>
+      </tr>
+      <tr>
+        <td><b>✅ Problems Solved</b></td>
+        <td style="padding-left: 15px;">47</td>
+      </tr>
+      <tr>
+        <td><b>🌐 Institution</b></td>
+        <td style="padding-left: 15px;">New York University</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+  <p>Show some ❤️ by starring some of the repositories!</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" alt="Footer wave animation"/>
