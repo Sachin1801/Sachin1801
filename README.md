@@ -105,9 +105,30 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
-<h3>📊 GitHub Stats</h3>
-
 <!-- GFG STATS -->
+<div align="center">
+  <h3>💻 GeeksForGeeks Stats</h3>
+  <div style="display: inline-block; text-align: left;">
+    <table>
+      <tr>
+        <td><b>🏆 Rank</b></td>
+        <td style="padding-left: 15px;">-</td>
+      </tr>
+      <tr>
+        <td><b>💻 Coding Score</b></td>
+        <td style="padding-left: 15px;">-</td>
+      </tr>
+      <tr>
+        <td><b>✅ Problems Solved</b></td>
+        <td style="padding-left: 15px;">-</td>
+      </tr>
+      <tr>
+        <td><b>🌐 Institution</b></td>
+        <td style="padding-left: 15px;">New York University</td>
+      </tr>
+    </table>
+  </div>
+</div>
 <div align="center">
   <h3>💻 GeeksForGeeks Stats</h3>
   <div style="display: inline-block; text-align: left;">
