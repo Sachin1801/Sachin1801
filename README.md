@@ -122,31 +122,23 @@
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin1801?theme=dark&font=Noto%20Sans&ext=activity)
   
   
-  <!-- GFG STATS -->
+<!-- Replace the GeeksForGeeks stats section with this -->
 <div align="center">
   <h3>💻 GeeksForGeeks Stats</h3>
-  <div style="display: inline-block; text-align: left;">
+  <div style="display: inline-block; background-color: #1f2937; padding: 20px; border-radius: 6px; margin-bottom: 16px;">
     <table>
       <tr>
-        <td><b>🏆 Rank</b></td>
-        <td style="padding-left: 15px;">-</td>
+        <td><img src="https://img.shields.io/badge/Problems%20Solved-49-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Problems Solved"/></td>
       </tr>
       <tr>
-        <td><b>💻 Coding Score</b></td>
-        <td style="padding-left: 15px;">-</td>
+        <td><img src="https://img.shields.io/badge/Coding%20Score-135-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Coding Score"/></td>
       </tr>
       <tr>
-        <td><b>✅ Problems Solved</b></td>
-        <td style="padding-left: 15px;">-</td>
-      </tr>
-      <tr>
-        <td><b>🌐 Institution</b></td>
-        <td style="padding-left: 15px;">New York University</td>
+        <td><img src="https://img.shields.io/badge/Institute%20Rank-13-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Institute Rank"/></td>
       </tr>
     </table>
   </div>
 </div>
-<!-- GFG STATS END -->
 
   <p>Show some ❤️ by starring some of the repositories!</p>
 </div>
