@@ -105,54 +105,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
-<!-- GFG STATS -->
-<div align="center">
-  <h3>💻 GeeksForGeeks Stats</h3>
-  <div style="display: inline-block; text-align: left;">
-    <table>
-      <tr>
-        <td><b>🏆 Rank</b></td>
-        <td style="padding-left: 15px;">-</td>
-      </tr>
-      <tr>
-        <td><b>💻 Coding Score</b></td>
-        <td style="padding-left: 15px;">-</td>
-      </tr>
-      <tr>
-        <td><b>✅ Problems Solved</b></td>
-        <td style="padding-left: 15px;">-</td>
-      </tr>
-      <tr>
-        <td><b>🌐 Institution</b></td>
-        <td style="padding-left: 15px;">New York University</td>
-      </tr>
-    </table>
-  </div>
-</div>
-<div align="center">
-  <h3>💻 GeeksForGeeks Stats</h3>
-  <div style="display: inline-block; text-align: left;">
-    <table>
-      <tr>
-        <td><b>🏆 Rank</b></td>
-        <td style="padding-left: 15px;">Institute Rank</td>
-      </tr>
-      <tr>
-        <td><b>💻 Coding Score</b></td>
-        <td style="padding-left: 15px;">N/A</td>
-      </tr>
-      <tr>
-        <td><b>✅ Problems Solved</b></td>
-        <td style="padding-left: 15px;">N/A</td>
-      </tr>
-      <tr>
-        <td><b>🌐 Institution</b></td>
-        <td style="padding-left: 15px;">New York University</td>
-      </tr>
-    </table>
-  </div>
-</div>
-<!-- GFG STATS END -->
 
 <div align="center">
   <h3>🎯 My DSA Practice Contributions </h3>
@@ -169,22 +121,23 @@
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin1801?theme=dark&font=Noto%20Sans&ext=activity)
   
-  <div align="center">
+  
+  <!-- GFG STATS -->
+<div align="center">
   <h3>💻 GeeksForGeeks Stats</h3>
-
   <div style="display: inline-block; text-align: left;">
     <table>
       <tr>
         <td><b>🏆 Rank</b></td>
-        <td style="padding-left: 15px;">15</td>
+        <td style="padding-left: 15px;">-</td>
       </tr>
       <tr>
         <td><b>💻 Coding Score</b></td>
-        <td style="padding-left: 15px;">131</td>
+        <td style="padding-left: 15px;">-</td>
       </tr>
       <tr>
         <td><b>✅ Problems Solved</b></td>
-        <td style="padding-left: 15px;">47</td>
+        <td style="padding-left: 15px;">-</td>
       </tr>
       <tr>
         <td><b>🌐 Institution</b></td>
@@ -193,6 +146,7 @@
     </table>
   </div>
 </div>
+<!-- GFG STATS END -->
 
   <p>Show some ❤️ by starring some of the repositories!</p>
 </div>
