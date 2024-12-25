@@ -107,9 +107,12 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1801&layout=donut&theme=transparent&hide=jupyter%20notebook" alt="Top Languages" />
-</p>
+<!-- GFG STATS -->
+| GeeksforGeeks Stats |
+| ------------------ |
+| 🏆 Problems Solved: - |
+| 💻 Coding Score: - |
+<!-- GFG STATS END -->
 
 <div align="center">
   <h3>🎯 My DSA Practice Contributions </h3>
