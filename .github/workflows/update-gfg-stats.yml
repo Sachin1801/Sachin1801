@@ -2,8 +2,8 @@ name: Update GFG Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0   # This ensures we have the full history
       
       - name: Setup Python
         uses: actions/setup-python@v2
@@ -27,86 +29,7 @@ jobs:
       - name: Create stats update script
         run: |
           cat > update_gfg_stats.py << 'EOL'
-          import requests
-          from bs4 import BeautifulSoup
-          import re
-
-          def get_gfg_stats(username):
-              url = f"https://auth.geeksforgeeks.org/user/{username}/practice"
-              response = requests.get(url)
-              soup = BeautifulSoup(response.text, 'html.parser')
-              
-              stats = {}
-              try:
-                  # Get rank
-                  rank_div = soup.find('div', string=re.compile(r'Institute Rank'))
-                  if rank_div:
-                      stats['rank'] = rank_div.find_next('div').text.strip()
-
-                  # Get problem solved count
-                  problems_div = soup.find('span', string=re.compile(r'Problems Solved'))
-                  if problems_div:
-                      stats['problems'] = problems_div.find_next('span').text.strip()
-                  
-                  # Get coding score
-                  score_div = soup.find('span', string=re.compile(r'Coding Score'))
-                  if score_div:
-                      stats['score'] = score_div.find_next('span').text.strip()
-                  
-                  return stats
-              except Exception as e:
-                  print(f"Error parsing GFG stats: {e}")
-                  return None
-
-          def update_readme(stats):
-              try:
-                  with open('README.md', 'r', encoding='utf-8') as file:
-                      content = file.read()
-                  
-                  stats_section = f"""
-          <!-- GFG STATS -->
-          <div align="center">
-            <h3>💻 GeeksForGeeks Stats</h3>
-            <div style="display: inline-block; text-align: left;">
-              <table>
-                <tr>
-                  <td><b>🏆 Rank</b></td>
-                  <td style="padding-left: 15px;">{stats.get('rank', 'N/A')}</td>
-                </tr>
-                <tr>
-                  <td><b>💻 Coding Score</b></td>
-                  <td style="padding-left: 15px;">{stats.get('score', 'N/A')}</td>
-                </tr>
-                <tr>
-                  <td><b>✅ Problems Solved</b></td>
-                  <td style="padding-left: 15px;">{stats.get('problems', 'N/A')}</td>
-                </tr>
-                <tr>
-                  <td><b>🌐 Institution</b></td>
-                  <td style="padding-left: 15px;">New York University</td>
-                </tr>
-              </table>
-            </div>
-          </div>
-          <!-- GFG STATS END -->
-          """
-                  
-                  pattern = r'<!-- GFG STATS -->.*?<!-- GFG STATS END -->'
-                  new_content = re.sub(pattern, stats_section.strip(), content, flags=re.DOTALL)
-                  
-                  with open('README.md', 'w', encoding='utf-8') as file:
-                      file.write(new_content)
-                  
-                  return True
-              except Exception as e:
-                  print(f"Error updating README: {e}")
-                  return False
-
-          if __name__ == "__main__":
-              username = "sachinadlakha7"  # Your GFG username
-              stats = get_gfg_stats(username)
-              if stats:
-                  update_readme(stats)
+          # Your existing Python script here
           EOL
 
       - name: Run stats update script
@@ -116,5 +39,6 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull origin main --rebase   # Add this line to pull latest changes
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update GFG stats" && git push)
