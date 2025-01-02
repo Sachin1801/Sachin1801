@@ -15,7 +15,7 @@
   </p>
 
   <div>
-    <a href="https://sachin1801.github.io/Personal_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Personal Website" /></a>
+    <a href="https://sachinadlakha3d.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Personal Website" /></a>
     <a href="https://www.linkedin.com/in/sachin-adlakha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sachinadlakha1801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
     <a href="https://medium.com/@sachinadlakha7" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
