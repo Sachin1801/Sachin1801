@@ -107,15 +107,18 @@
 
 
 <div align="center">
-  <h3>🎯 My DSA Practice Contributions </h3>
+  <h3>🎯 My Github Contributions </h3>
 
   [![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
-
-  ![C++](https://img.shields.io/badge/DSA_Practice-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
   ### 📊 My DSA Practice Stats
 
   [![LeetCode & GFG Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=tokyonight&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
+  
+
+  ![C++](https://img.shields.io/badge/DSA_Practice-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+  
 
   <h3>🏆 LeetCode Stats</h3>
   
