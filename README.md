@@ -131,13 +131,13 @@
   <div style="display: inline-block; background-color: #1f2937; padding: 20px; border-radius: 6px; margin-bottom: 16px;">
     <table>
       <tr>
-        <td><img src="https://img.shields.io/badge/Problems%20Solved-86-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Problems Solved"/></td>
+        <td><img src="https://img.shields.io/badge/Problems%20Solved-94-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Problems Solved"/></td>
       </tr>
       <tr>
-        <td><img src="https://img.shields.io/badge/Coding%20Score-254-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Coding Score"/></td>
+        <td><img src="https://img.shields.io/badge/Coding%20Score-282-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Coding Score"/></td>
       </tr>
       <tr>
-        <td><img src="https://img.shields.io/badge/University%20Rank-10-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Institute Rank"/></td>
+        <td><img src="https://img.shields.io/badge/University%20Rank-07-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2D3748" alt="Institute Rank"/></td>
       </tr>
     </table>
   </div>
