@@ -11,7 +11,7 @@
   </a>
 
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
   </p>
 
   <div>
@@ -32,7 +32,7 @@
   <div style="flex: 1;">
     <h3>Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" alt="Cool doge emoji" /></h3>
 
-    - 🌱 I'm currently learning Deep Learning & Financial Computing
+    - 🌱 I'm a Software Engineer and emerging AI Engineer
     - 👬 I'm looking to collaborate on Full Stack Web Development, AI projects, Finance Projects  
     - 🤝 I'm Looking for Summer 2025 Internships in United States of America
     - 🌌 Ask me about anything, I am happy to help :)
@@ -105,28 +105,26 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
-
 <div align="center">
-  <h3>🎯 My Github Contributions </h3>
+  <h3>🎯 My Github Contributions</h3>
 
   [![DSA Practice Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=react-dark&area=true&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
 
-  ### 📊 My DSA Practice Stats
-
-  [![LeetCode & GFG Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Sachin1801&repo=DSA_CPP_Leetcode_-_GFG&theme=tokyonight&hide_border=true)](https://github.com/Sachin1801/DSA_CPP_Leetcode_-_GFG)
+  <h3>🚀 GitHub Stats</h3>
   
-
-  ![C++](https://img.shields.io/badge/DSA_Practice-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin1801&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Sachin's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1801&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Sachin's Most Used Languages"/>
+  </div>
   
+  <div align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sachin1801&theme=chartreuse-dark&hide_border=true" alt="Sachin's GitHub Streak"/>
+  </div>
 
   <h3>🏆 LeetCode Stats</h3>
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin1801?theme=dark&font=Noto%20Sans&ext=activity)
   
-  
-<!-- Replace the GeeksForGeeks stats section with this -->
-<div align="center">
   <h3>💻 GeeksForGeeks Stats</h3>
   <div style="display: inline-block; background-color: #1f2937; padding: 20px; border-radius: 6px; margin-bottom: 16px;">
     <table>
@@ -141,7 +139,6 @@
       </tr>
     </table>
   </div>
-</div>
 
   <p>Show some ❤️ by starring some of the repositories!</p>
 </div>
