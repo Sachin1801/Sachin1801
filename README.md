@@ -113,7 +113,7 @@
   <h3>🚀 GitHub Stats</h3>
   
   <div align="center">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sachin1801&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Sachin's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachin1801&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Sachin's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1801&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Sachin's Most Used Languages"/>
   </div>
   
