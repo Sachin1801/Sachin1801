@@ -33,8 +33,8 @@
     <h3>Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" alt="Cool doge emoji" /></h3>
 
     - 🌱 I'm a Software Engineer and emerging AI Engineer
-    - 👬 I'm looking to collaborate on Full Stack Web Development, AI projects, Finance Projects  
-    - 🤝 I'm Looking for Summer 2025 Internships in United States of America
+    - 👬 I'm looking to collaborate on Full Stack Web Development, AI projects, SaaS Ideas  
+    - 🤝 I'm Looking for Full-Time Development/SWE roles in United States of America
     - 🌌 Ask me about anything, I am happy to help :)
     - 😄 Pronouns: He/Him 
     - ⚡ Hobbies: I play Billiards, Soccer 🤪 and I love listening to Music 🎶
