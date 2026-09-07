@@ -160,6 +160,7 @@
 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square)
   ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+  ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square)
   ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -185,10 +186,12 @@
     base64, so GitHub counts them as ~78% of all bytes written, which drowns out every
     real language. Drop that param to show it again.
   -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sachin1801&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_border=true" alt="Sachin's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sachin1801&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Sachin's Most Used Languages"/>
-  </div>
+  <table align="center">
+    <tr>
+      <td valign="top"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sachin1801&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_border=true" alt="Sachin's GitHub Stats"/></td>
+      <td valign="top"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sachin1801&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Sachin's Most Used Languages"/></td>
+    </tr>
+  </table>
 
   <div align="center">
     <img src="https://streak-stats.demolab.com/?user=Sachin1801&theme=chartreuse-dark&hide_border=true" alt="Sachin's GitHub Streak"/>
