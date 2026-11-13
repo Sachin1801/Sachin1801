@@ -16,7 +16,6 @@
     <a href="https://www.linkedin.com/in/sachin-adlakha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
     <a href="mailto:sachinadlakha1801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
     <a href="https://x.com/sachinadlakha18" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" /></a>
-    <a href="https://www.sachinadlakha.us/work-with-me" target="_blank"><img src="https://img.shields.io/badge/-Work%20With%20Me-6366F1?style=for-the-badge&logo=calendly&logoColor=white" alt="Work with me" /></a>
     <!-- <a href="https://dev.to/mannadamay12" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a> -->
     <!-- <a href="https://hashnode.com/@mannadamay12" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a> -->
     <a href="https://leetcode.com/u/sachin1801/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
